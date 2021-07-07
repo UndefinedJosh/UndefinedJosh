@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @Karxem
-- 👀 I’m interested in C#, JavaScript and Web Developing
-- 📫 How to reach me discord: Karxem#9999
-
-<!---
-Karxem/Karxem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hola :wave:, I'm zeroday</h1> <h3 align="center">i transform coffee into code.</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroday-z&label=Profile%20views&color=0e75b6&style=flat" alt="zeroday-z" /> </p>  - :telescope: I’m currently working on PARADOX  - :speech_balloon: Ask me about PHP & C#  - :mailbox: How to reach me Discord: zeroday#1337  - :zap: Fun fact more caffeine == better code.   <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/
