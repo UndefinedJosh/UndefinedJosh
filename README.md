@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Karxem</h1>
 <h3 align="center">If you can't open a Jar, download Java!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeroday-z&label=Profile%20views&color=0e75b6&style=flat" alt="karxem-z" /> </p>
-
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Demon-Life.de**
+- 🔭 I’m currently not involved in any **Project**
 
 - 💬 Ask me about **Java, Lua, HTML and JavaScript**
 
