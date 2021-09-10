@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **TrioState**
+- 🔭 I’m currently working on **nothing**
 
 - 💬 Ask me about **Java, Lua, HTML and JavaScript**
 
