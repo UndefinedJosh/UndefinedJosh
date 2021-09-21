@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Discord: Karxem#9999**
 
-- ⚡ Funny fact **!false, its funny cause it is true**
+- ⚡ Funny fact: **!false, its funny cause it is true**
 
 
 <h3 align="left">Language and Programms:</h3>
