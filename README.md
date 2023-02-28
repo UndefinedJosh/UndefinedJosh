@@ -3,13 +3,13 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Wizarding Acedamy**
 
 - 💬 Ask me about **Java, Lua, HTML and JavaScript**
 
-- 💻 I am currently learning C#, PHP and NodeJS
+- 💻 I am currently learning C# and PHP
 
-- 📫 How to reach me **Discord: Karxem#9999**
+- 📫 How to reach me **Discord: Karxem #9000**
 
 - ⚡ Funny fact: **!false, its funny cause it is true**
 
