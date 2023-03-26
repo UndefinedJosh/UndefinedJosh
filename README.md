@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **private Projects**
 
-- 💬 Ask me about **Java, Lua, HTML and JavaScript**
+- 💬 Ask me about **Java, JavaScript, Lua and HTML**
 
 - 💻 I am currently learning React
 
