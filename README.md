@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, JavaScript, Lua and HTML**
 
-- 💻 I am currently learning React
+- 💻 I am currently learning React**
 
 - 📫 How to reach me **Discord: Karxem #9000**
 
