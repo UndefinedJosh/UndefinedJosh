@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Lua, HTML and JavaScript**
 
-- 💻 I am currently learning C# and PHP
+- 💻 I am currently learning React
 
 - 📫 How to reach me **Discord: Karxem #9000**
 
