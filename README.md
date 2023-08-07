@@ -1,27 +1,31 @@
-<h1 align="center">Hey 👋, I'm Karxem</h1>
-<h3 align="center">If you can't open a Jar, download Java!</h3>
+# Hi, I'm Josh 👋
+I'm a software developer from germany.
 
-<h3 align="left">About me:</h3>
-
-- 🔭 I’m currently working on **private Projects**
-
-- 💬 Ask me about **Java, JavaScript, Lua and HTML**
-
-- 💻 I am currently learning **React**
-
+## Find me on the web 🌍
+- 🌐 Personal website [tippjoshua.de](https://tippjoshua.de)
+- 💬 Ask me about **Java, JavaScript, NodeJS, Angular or React**
+- 💻 I am currently doing my apprenticeship
 - 📫 How to reach me **Discord: Karxem #9000**
-
 - ⚡ Funny fact: **!false, its funny cause it is true**
 
+# Some of my Projects 👨‍💻
 
-<h3 align="left">Languages and Programms:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+* [Tipsplitter Web App](https://github.com/Karxem/tipsplitter)
+
+  Just a simple **no framwork** web app to calculate the tip per person
+
+* [To-Do Web App](https://github.com/Karxem/todo-app)
+
+  Manage your tasks with a **really simple** to-do app written in react
+
+## Languages and Tools
+<img alt="Angular" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img alt="React" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="TypeScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="Python" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img alt="Java" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+<img alt="Git" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="MySQL" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img alt="Visual Studio Code" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
