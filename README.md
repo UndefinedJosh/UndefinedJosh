@@ -1,4 +1,4 @@
-# Hi, I'm Josh 👋
+## Hi, I'm Josh 👋
 I'm a software developer from germany.
 
 ## Find me on the web 🌍
