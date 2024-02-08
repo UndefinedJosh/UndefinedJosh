@@ -5,7 +5,7 @@ I'm a software developer from germany.
 - 🌐 Personal website [tippjoshua.de](https://tippjoshua.de)
 - 💬 Ask me about **Java, C#, JavaScript, NodeJS or Angular**
 - 💻 I am currently doing my apprenticeship as a Software Developer
-- 📫 How to reach me **Discord: Karxem #9000**
+- 📫 How to reach me **Discord: Karxem**
 - ⚡ Funny fact: **!false, its funny cause it is true**
 
 # Some of my Projects 👨‍💻
