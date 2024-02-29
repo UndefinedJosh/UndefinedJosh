@@ -2,7 +2,6 @@
 I'm a software developer from germany.
 
 ## Find me on the web 🌍
-- 🌐 Personal website [tippjoshua.de](https://tippjoshua.de)
 - 💬 Ask me about **Java, C#, JavaScript, NodeJS or Angular**
 - 💻 I am currently doing my apprenticeship as a Software Developer
 - 📫 How to reach me **Discord: Karxem**
