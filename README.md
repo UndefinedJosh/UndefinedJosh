@@ -11,15 +11,15 @@ I'm a software developer from germany.
 
 * [Tipsplitter Web App](https://github.com/Karxem/tipsplitter)
 
-A simple **no framwork** web app to calculate a tip or split the tip per person.
+  A simple **no framwork** web app to calculate a tip or split the tip per person.
 
 * [To-Do Web App](https://github.com/Karxem/todo-app)
 
-Manage your tasks with a **Really simple** to-do app written in react.
+  Manage your tasks with a **Really simple** to-do app written in react.
 
 * [Virtual-Pets](https://github.com/Karxem/virtual-pets)
 
-A virtual pet simulation game implemented in C# .NET7.
+  A virtual pet simulation game implemented in C# .NET7.
 
 ## Languages and Tools
 <img alt="Angular" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
