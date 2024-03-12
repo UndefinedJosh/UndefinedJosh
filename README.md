@@ -10,12 +10,15 @@ I'm a software developer from germany.
 # Some of my Projects 👨‍💻
 
 * [Tipsplitter Web App](https://github.com/Karxem/tipsplitter)
+
 A simple **no framwork** web app to calculate a tip or split the tip per person.
 
 * [To-Do Web App](https://github.com/Karxem/todo-app)
+
 Manage your tasks with a **Really simple** to-do app written in react.
 
 * [Virtual-Pets](https://github.com/Karxem/virtual-pets)
+
 A virtual pet simulation game implemented in C# .NET7.
 
 ## Languages and Tools
