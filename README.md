@@ -2,7 +2,7 @@
 I'm a software developer from germany.
 
 ## Find me on the web 🌍
-- 💬 Ask me about **Java, C#, JavaScript, NodeJS or Angular**
+- 💬 Ask me about **JavaScript, C#, Java, NodeJS or Angular**
 - 💻 I am currently doing my apprenticeship as a Software Developer
 - 📫 How to reach me **Discord: Karxem**
 - ⚡ Funny fact: **!false, its funny cause it is true**
