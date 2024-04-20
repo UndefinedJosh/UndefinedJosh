@@ -1,13 +1,12 @@
-## Hi, I'm Josh 👋
+# Hey there, I'm Josh 👋
 I'm a software developer from germany.
 
-## Find me on the web 🌍
-- 💬 Ask me about **JavaScript, C#, Java, NodeJS or Angular**
+## About Me ℹ️
 - 💻 I am currently doing my apprenticeship as a Software Developer
+- 💬 Ask me about **JavaScript, C#, Java, NodeJS or Angular**
 - 📫 How to reach me **Discord: Karxem**
-- ⚡ Funny fact: **!false, its funny cause it is true**
 
-# Some of my Projects 👨‍💻
+## Some of my Projects 👨‍💻
 
 * [Part Tweaker Mod](https://github.com/Karxem/part-tweaker-streets)
 
@@ -21,7 +20,7 @@ I'm a software developer from germany.
 
   Manage your tasks with a **Really simple** to-do app written in react.
 
-## Languages and Tools
+## Languages and Tools 🛠️
 <img alt="Angular" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img alt="React" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <img alt="TypeScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
