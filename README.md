@@ -11,7 +11,7 @@ I'm a software developer from germany.
 
 * [Part Tweaker Mod](https://github.com/Karxem/part-tweaker-streets)
 
-  Part Tweaker allows players to customize and tweak various parts of their bmx.
+  Part Tweaker Mod for BMX Streets
 
 * [Virtual-Pets](https://github.com/Karxem/virtual-pets)
 
