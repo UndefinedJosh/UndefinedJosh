@@ -20,7 +20,7 @@ I'm a software developer from germany.
 
   Manage your tasks with a simple to-do app written in react.
 
-  * [Virtual-Pets](https://github.com/Karxem/virtual-pets)
+* [Virtual-Pets](https://github.com/Karxem/virtual-pets)
 
   A virtual pet simulation game implemented in C# .NET7.
 
