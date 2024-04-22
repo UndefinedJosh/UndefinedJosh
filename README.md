@@ -12,13 +12,17 @@ I'm a software developer from germany.
 
   Part Tweaker Mod for BMX Streets.
 
-* [Virtual-Pets](https://github.com/Karxem/virtual-pets)
+* [Quick Settings Mod](https://github.com/Karxem/quikc-settings-streets)
 
-  A virtual pet simulation game implemented in C# .NET7.
+  Quick Settings Mod for BMX Streets.
 
 * [To-Do Web App](https://github.com/Karxem/todo-app)
 
   Manage your tasks with a simple to-do app written in react.
+
+  * [Virtual-Pets](https://github.com/Karxem/virtual-pets)
+
+  A virtual pet simulation game implemented in C# .NET7.
 
 ## Languages and Tools 🛠️
 <img alt="Angular" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
