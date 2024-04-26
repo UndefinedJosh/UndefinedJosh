@@ -12,7 +12,7 @@ I'm a software developer from germany.
 
   Part Tweaker Mod for BMX Streets.
 
-* [Quick Settings Mod](https://github.com/Karxem/quikc-settings-streets)
+* [Quick Settings Mod](https://github.com/Karxem/quick-settings-streets)
 
   Quick Settings Mod for BMX Streets.
 
