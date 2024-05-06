@@ -8,9 +8,9 @@ I'm a software developer from germany.
 
 ## Some of my Projects 👨‍💻
 
-* [Part Tweaker Mod](https://github.com/Karxem/part-tweaker-streets)
+* [Sid - simpleDir CLI](https://github.com/Karxem/simpledir-cli)
 
-  Part Tweaker Mod for BMX Streets.
+  Sid is a simple CLI tool to handle file and directory interactions.
 
 * [Quick Settings Mod](https://github.com/Karxem/quick-settings-streets)
 
