@@ -5,6 +5,7 @@ I'm a software developer from germany.
 - 💻 I am currently doing my apprenticeship as a Software Developer
 - 💬 Ask me about **JavaScript, C#, Java, NodeJS or Angular**
 - 📫 How to reach me **Discord: Karxem**
+- ⚡ Never Nesting is my religion!
 
 ## Some of my Projects 👨‍💻
 
