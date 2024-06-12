@@ -25,14 +25,11 @@ I'm a software developer from germany.
 
   A virtual pet simulation game implemented in C# .NET7.
 
-## Languages and Tools 🛠️
-<img alt="Angular" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img alt="React" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img alt="JavaScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img alt="TypeScript" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img alt="Node.js" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img alt="Java" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
-<img alt="Csharp" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/csharp/csharp.png" />
-<img alt="Python" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img alt="MySQL" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img alt="Git" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## Stats and Tools 🛠️
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=karxem&theme=transparent&hide_border=true&border_radius=5&card_width=800">
+</p>
+<p align="center">
+  <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=karxem&hide=contribs,issues&theme=transparent"/>
+  <img alt="GitHub Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent" />
+</p>
