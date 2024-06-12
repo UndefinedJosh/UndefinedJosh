@@ -31,5 +31,5 @@ I'm a software developer from germany.
 </p>
 <p align="center">
   <img alt="GitHub Stats" height="150" src="https://github-readme-stats.vercel.app/api?username=karxem&hide=contribs,issues&rank_icon=github&theme=transparent"/>
-  <img alt="GitHub Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=transparent" />
+  <img alt="GitHub Langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karxem&hide_progress=true&theme=transparent" />
 </p>
